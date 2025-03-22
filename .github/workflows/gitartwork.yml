@@ -18,6 +18,6 @@ jobs:
           # Gunakan username pemilik repository (bukan jasineri jika bukan pemilik repo)
           user_name: ${{ github.albedoes }}
           # Teks yang ditampilkan di contribution graph
-          text: Dika Hadi P
+          text: Dika H.P
 
       - uses: jasineri/simple-push-action@v1
